@@ -1,0 +1,17 @@
+.main{
+  width: 500px;
+  float:left;
+  text-align: center;
+}
+
+.name{
+  font-weight: bold;
+}
+
+.education{
+  border-top: solid black 1px;
+}
+
+.exp {
+  border-top: 1px solid black;
+}
